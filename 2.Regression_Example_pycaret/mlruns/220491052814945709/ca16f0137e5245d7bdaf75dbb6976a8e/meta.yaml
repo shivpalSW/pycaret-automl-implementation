@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/ML_PROJECTS2020/pycaret_low%20code%20ML%20library/2.Anamoly%20detection/mlruns/220491052814945709/ca16f0137e5245d7bdaf75dbb6976a8e/artifacts
+end_time: 1674667381714
+entry_point_name: ''
+experiment_id: '220491052814945709'
+lifecycle_stage: active
+run_id: ca16f0137e5245d7bdaf75dbb6976a8e
+run_name: Decision Tree Regressor
+run_uuid: ca16f0137e5245d7bdaf75dbb6976a8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674667381227
+status: 3
+tags: []
+user_id: Admin

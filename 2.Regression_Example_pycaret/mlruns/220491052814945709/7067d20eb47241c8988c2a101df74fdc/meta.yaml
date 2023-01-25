@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/ML_PROJECTS2020/pycaret_low%20code%20ML%20library/2.Anamoly%20detection/mlruns/220491052814945709/7067d20eb47241c8988c2a101df74fdc/artifacts
+end_time: 1674667602069
+entry_point_name: ''
+experiment_id: '220491052814945709'
+lifecycle_stage: active
+run_id: 7067d20eb47241c8988c2a101df74fdc
+run_name: Extreme Gradient Boosting
+run_uuid: 7067d20eb47241c8988c2a101df74fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674667601861
+status: 3
+tags: []
+user_id: Admin

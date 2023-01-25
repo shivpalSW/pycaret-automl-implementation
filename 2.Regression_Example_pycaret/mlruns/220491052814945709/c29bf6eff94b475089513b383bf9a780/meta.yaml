@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/ML_PROJECTS2020/pycaret_low%20code%20ML%20library/2.Anamoly%20detection/mlruns/220491052814945709/c29bf6eff94b475089513b383bf9a780/artifacts
+end_time: 1674667594114
+entry_point_name: ''
+experiment_id: '220491052814945709'
+lifecycle_stage: active
+run_id: c29bf6eff94b475089513b383bf9a780
+run_name: Gradient Boosting Regressor
+run_uuid: c29bf6eff94b475089513b383bf9a780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674667593710
+status: 3
+tags: []
+user_id: Admin

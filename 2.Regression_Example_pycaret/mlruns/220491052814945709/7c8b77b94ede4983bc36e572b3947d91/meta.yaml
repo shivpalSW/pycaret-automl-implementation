@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/ML_PROJECTS2020/pycaret_low%20code%20ML%20library/2.Anamoly%20detection/mlruns/220491052814945709/7c8b77b94ede4983bc36e572b3947d91/artifacts
+end_time: 1674667314911
+entry_point_name: ''
+experiment_id: '220491052814945709'
+lifecycle_stage: active
+run_id: 7c8b77b94ede4983bc36e572b3947d91
+run_name: Light Gradient Boosting Machine
+run_uuid: 7c8b77b94ede4983bc36e572b3947d91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674667314327
+status: 3
+tags: []
+user_id: Admin

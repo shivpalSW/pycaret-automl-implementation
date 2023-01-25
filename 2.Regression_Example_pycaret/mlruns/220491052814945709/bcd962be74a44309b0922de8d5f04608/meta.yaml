@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/ML_PROJECTS2020/pycaret_low%20code%20ML%20library/2.Anamoly%20detection/mlruns/220491052814945709/bcd962be74a44309b0922de8d5f04608/artifacts
+end_time: 1674667600165
+entry_point_name: ''
+experiment_id: '220491052814945709'
+lifecycle_stage: active
+run_id: bcd962be74a44309b0922de8d5f04608
+run_name: Random Forest Regressor
+run_uuid: bcd962be74a44309b0922de8d5f04608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674667599721
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/ML_PROJECTS2020/pycaret_low%20code%20ML%20library/2.Anamoly%20detection/mlruns/220491052814945709/688195372c2943e2bbf0f8d7cc279b91/artifacts
+end_time: 1674667260834
+entry_point_name: ''
+experiment_id: '220491052814945709'
+lifecycle_stage: active
+run_id: 688195372c2943e2bbf0f8d7cc279b91
+run_name: CatBoost Regressor
+run_uuid: 688195372c2943e2bbf0f8d7cc279b91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674667260676
+status: 3
+tags: []
+user_id: Admin

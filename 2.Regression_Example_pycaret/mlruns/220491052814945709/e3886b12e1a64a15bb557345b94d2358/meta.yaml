@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/ML_PROJECTS2020/pycaret_low%20code%20ML%20library/2.Anamoly%20detection/mlruns/220491052814945709/e3886b12e1a64a15bb557345b94d2358/artifacts
+end_time: 1674667125401
+entry_point_name: ''
+experiment_id: '220491052814945709'
+lifecycle_stage: active
+run_id: e3886b12e1a64a15bb557345b94d2358
+run_name: Session Initialized 609c
+run_uuid: e3886b12e1a64a15bb557345b94d2358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674667125186
+status: 4
+tags: []
+user_id: Admin
